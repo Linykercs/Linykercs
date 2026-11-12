@@ -6,7 +6,7 @@
   </picture>
 </a>
 
-[LinkedIn](https://www.linkedin.com/in/linyker-mendes-coelho) · [E-mail](mailto:linykermc@unipam.edu.br)
+[Portfólio](https://linykercs.github.io/portfolio) · [LinkedIn](https://www.linkedin.com/in/linyker-mendes-coelho) · [E-mail](mailto:linykermc@unipam.edu.br)
 
 ### Projeto em destaque
 
