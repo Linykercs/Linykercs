@@ -6,6 +6,8 @@
   </picture>
 </a>
 
+[LinkedIn](https://www.linkedin.com/in/linyker-mendes-coelho-20068a34b) · [E-mail](mailto:linykermc@unipam.edu.br)
+
 ### Projeto em destaque
 
 **[assistente-docs-rag](https://github.com/Linykercs/assistente-docs-rag)** — assistente que responde dúvidas sobre a documentação da API do Asaas, com RAG, respostas com fonte e avaliação automática (evals).
