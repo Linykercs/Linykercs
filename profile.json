@@ -1,0 +1,27 @@
+{
+  "user": "Linykercs",
+  "title": "linyker@mendes",
+  "birthday": "2003-03-21",
+  "sections": [
+    [
+      ["OS", "Windows 11, Linux"],
+      ["Uptime", "{uptime}"],
+      ["Host", "Uberlândia, Brazil"],
+      ["Kernel", "AI Engineer"],
+      ["IDE", "VS Code, Claude Code, Cline"]
+    ],
+    [
+      ["Languages.Programming", "Python, Java, TypeScript, SQL"],
+      ["Languages.Frameworks", "FastAPI, Spring Boot"],
+      ["Languages.Real", "Portuguese, English"]
+    ],
+    [
+      ["Focus.AI", "RAG, Evals, LLM Agents"],
+      ["Focus.Backend", "REST APIs, Webhooks, Integrations"],
+      ["Focus.Ops", "Automation, Docker, CI/CD"]
+    ]
+  ],
+  "contact": [
+    ["GitHub", "github.com/Linykercs"]
+  ]
+}
