@@ -2,46 +2,42 @@
 <style>text{white-space:pre;fill:#24292f}.key{fill:#953800}.value{fill:#0a3069}.dim{fill:#afb8c1}</style>
 <rect width="1000" height="510" rx="15" fill="#f6f8fa"/>
 <g font-size="10" xml:space="preserve">
-<text x="20" y="65" textLength="234.8" lengthAdjust="spacingAndGlyphs">                  .::.::.-*=-:.----::..</text>
-<text x="20" y="75" textLength="240.8" lengthAdjust="spacingAndGlyphs">               .::=+=-=-:+*-=-.+++=-=--:</text>
-<text x="20" y="85" textLength="252.8" lengthAdjust="spacingAndGlyphs">              .:. -+::=++++++==++*=+**+=-.</text>
-<text x="20" y="95" textLength="258.9" lengthAdjust="spacingAndGlyphs">             .:-  =++************++-=++++=.</text>
-<text x="20" y="105" textLength="270.9" lengthAdjust="spacingAndGlyphs">           .:-===+****#############+=-=+==:..</text>
-<text x="20" y="115" textLength="270.9" lengthAdjust="spacingAndGlyphs">           :--+*####################*=...:-=:</text>
-<text x="20" y="125" textLength="276.9" lengthAdjust="spacingAndGlyphs">          .::*%#######################= .:-+=.</text>
-<text x="20" y="135" textLength="282.9" lengthAdjust="spacingAndGlyphs">         :--#%+====++++=+++*******#####+:.++=:.</text>
-<text x="20" y="145" textLength="289" lengthAdjust="spacingAndGlyphs">        .-+#%+.......::...:::--====+**##*.-= --.</text>
-<text x="20" y="155" textLength="289" lengthAdjust="spacingAndGlyphs">        :=*##=:.    .......:::---===++*##=-*--=:</text>
-<text x="20" y="165" textLength="295" lengthAdjust="spacingAndGlyphs">       .-*###:............:::----====+*##*=**#=:.</text>
-<text x="20" y="175" textLength="295" lengthAdjust="spacingAndGlyphs">       :=##%*=+++***+==-:-=+********==*##*=**#+-:</text>
-<text x="20" y="185" textLength="295" lengthAdjust="spacingAndGlyphs">       :=###=====+*##*+-=*###*+++++**=+###+++==-.</text>
-<text x="20" y="195" textLength="295" lengthAdjust="spacingAndGlyphs">       :-+#*:-+*+#%#*+:.=*##***#***+++=#%#=====-.</text>
-<text x="20" y="205" textLength="301" lengthAdjust="spacingAndGlyphs">       :+*++..:-=+*+=- .=+***+*#*#*++==*#+.-=-=-:.</text>
-<text x="20" y="215" textLength="301" lengthAdjust="spacingAndGlyphs">      .=%#+-   .:::::. -+++++====-=====**+-*#+++:.</text>
-<text x="20" y="225" textLength="301" lengthAdjust="spacingAndGlyphs">      .+%#::.. ...... .-+++=----:--====*+++####*=.</text>
-<text x="20" y="235" textLength="301" lengthAdjust="spacingAndGlyphs">      .=%#-........:==-+++++------=====+*+*###%#=.</text>
-<text x="20" y="245" textLength="301" lengthAdjust="spacingAndGlyphs">       :**+:.::....:++=*#**+-----=++++++++%###%#=.</text>
-<text x="20" y="255" textLength="295" lengthAdjust="spacingAndGlyphs">       .=%%-::......::==+*+=----==++++++=#%%%%%*-</text>
-<text x="20" y="265" textLength="295" lengthAdjust="spacingAndGlyphs">       .+@@=:::::::::---+++======+++*++*%%%%%%%+:</text>
-<text x="20" y="275" textLength="295" lengthAdjust="spacingAndGlyphs">        =#@+::::-=+++++****++=+=++++++%@%%%%%%#=.</text>
-<text x="20" y="285" textLength="289" lengthAdjust="spacingAndGlyphs">        :*@=::::------==+***+++++++*++@%%%%%%%+:</text>
-<text x="20" y="295" textLength="289" lengthAdjust="spacingAndGlyphs">         =#-:-:-:::-=++++++++++++*+*-=@%%%%%%*=.</text>
-<text x="20" y="305" textLength="282.9" lengthAdjust="spacingAndGlyphs">         .=*+=--:::---====+++++****+:*@%%%%%#=:</text>
-<text x="20" y="315" textLength="276.9" lengthAdjust="spacingAndGlyphs">          :+==--::.:::--==++++***##*-#@@@@@%+:</text>
-<text x="20" y="325" textLength="270.9" lengthAdjust="spacingAndGlyphs">           .   ==------=+++++*#####*=###@%#+:</text>
-<text x="20" y="335" textLength="264.9" lengthAdjust="spacingAndGlyphs">             .=-+++++==+***###%##***+@@*+#=:</text>
-<text x="20" y="345" textLength="258.9" lengthAdjust="spacingAndGlyphs">             .-:-=+****####%####****#@@%::.</text>
-<text x="20" y="355" textLength="282.9" lengthAdjust="spacingAndGlyphs">           .-==:::-=+****##********#%%#+-:-===-</text>
-<text x="20" y="365" textLength="289" lengthAdjust="spacingAndGlyphs">          :*%@@=-=-=+*++***++++****#%%@%%%+*%%+.</text>
-<text x="20" y="375" textLength="295" lengthAdjust="spacingAndGlyphs">         -*%@@%--==++++++++==+++**#%%%%%@%#**%- .</text>
-<text x="20" y="385" textLength="282.9" lengthAdjust="spacingAndGlyphs">        -*%@@@+-:-=+==+++====+++**#%%@@@@%%%#*%</text>
-<text x="20" y="395" textLength="289" lengthAdjust="spacingAndGlyphs">      .=#%@@@%-=---======--==+++**#%@@@@@%%%#*#+</text>
-<text x="20" y="405" textLength="319.1" lengthAdjust="spacingAndGlyphs">     .=#%@@@@@==--======-===++++**%@@@@@%%%#*#++   ..</text>
-<text x="20" y="415" textLength="325.1" lengthAdjust="spacingAndGlyphs">    :+%%@@@%%@*---======-===++++#@@%@@@@@@%##%#**+....</text>
-<text x="20" y="425" textLength="325.1" lengthAdjust="spacingAndGlyphs">   :*%%%%%@%%@%+=-=+====-====+*%@@@@@@@@@@@@@%%@%%#+=:</text>
-<text x="20" y="435" textLength="331.1" lengthAdjust="spacingAndGlyphs">  :-%%%%%@@%@@@@#*##*++==++*##%@@%@@@@@@@@@%@%@%%%%##*-</text>
-<text x="20" y="445" textLength="349.2" lengthAdjust="spacingAndGlyphs"> -=*@%%%@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@%%%%%%@%##*#%%%#-.</text>
-<text x="20" y="455" textLength="349.2" lengthAdjust="spacingAndGlyphs">=#%@%%%%@@@@@@@@@@@@@@@@@@@%%%%%@@%%%%%%%%%@%%%%%##%#*+:..</text>
+<text x="20" y="105" textLength="210.7" lengthAdjust="spacingAndGlyphs">                       .:-=====-::.</text>
+<text x="20" y="115" textLength="228.8" lengthAdjust="spacingAndGlyphs">                    :-+*###%##*##*+=:.</text>
+<text x="20" y="125" textLength="234.8" lengthAdjust="spacingAndGlyphs">                  :=*###%%%@%@@%%#*++-.</text>
+<text x="20" y="135" textLength="246.8" lengthAdjust="spacingAndGlyphs">                .=*##%%@@@@@@@@@@@%+.  ..</text>
+<text x="20" y="145" textLength="252.8" lengthAdjust="spacingAndGlyphs">               .=*##%@@@@@@@@%#**#%@*.:--:</text>
+<text x="20" y="155" textLength="258.9" lengthAdjust="spacingAndGlyphs">              .-+#%%%%%%##**+======#@*+++=:</text>
+<text x="20" y="165" textLength="264.9" lengthAdjust="spacingAndGlyphs">             .-*#%###**+========++*+%@+===-.</text>
+<text x="20" y="175" textLength="270.9" lengthAdjust="spacingAndGlyphs">             -+##+====--=====+*#####+%*===+-.</text>
+<text x="20" y="185" textLength="270.9" lengthAdjust="spacingAndGlyphs">            .-*%*-:-::-==+++*#%%%###++#++++=:</text>
+<text x="20" y="195" textLength="270.9" lengthAdjust="spacingAndGlyphs">            :=*##=::-+#####++#%%%#*+==**=--::</text>
+<text x="20" y="205" textLength="276.9" lengthAdjust="spacingAndGlyphs">           .::+##*:-###%%%*-:=+*++======-----.</text>
+<text x="20" y="215" textLength="270.9" lengthAdjust="spacingAndGlyphs">            ..-###:=*####*=-:-==+++===+=--::.</text>
+<text x="20" y="225" textLength="264.9" lengthAdjust="spacingAndGlyphs">           .:==+##::==++===::=+******+++-...</text>
+<text x="20" y="235" textLength="270.9" lengthAdjust="spacingAndGlyphs">           .=++=+#= .:---=*=***#*+**#*++=--::</text>
+<text x="20" y="245" textLength="276.9" lengthAdjust="spacingAndGlyphs">           .-=====*:.::-=**==+*****%**+*+::::.</text>
+<text x="20" y="255" textLength="270.9" lengthAdjust="spacingAndGlyphs">            :======-::--+**+++====+*+++**##+:</text>
+<text x="20" y="265" textLength="270.9" lengthAdjust="spacingAndGlyphs">            .-====::--=-=**#*=-=++*++++*#@@%-</text>
+<text x="20" y="275" textLength="270.9" lengthAdjust="spacingAndGlyphs">             :=--::.::---=+=--=+**+===+**%@*:</text>
+<text x="20" y="285" textLength="264.9" lengthAdjust="spacingAndGlyphs">             ..:......:----=---==-====*#**#-</text>
+<text x="20" y="295" textLength="258.9" lengthAdjust="spacingAndGlyphs">               ....... .:-=-:----==+*##**+-</text>
+<text x="20" y="305" textLength="252.8" lengthAdjust="spacingAndGlyphs">                ....    :--=+==+***###**+-</text>
+<text x="20" y="315" textLength="276.9" lengthAdjust="spacingAndGlyphs">                       .%#:--=+********=:.....</text>
+<text x="20" y="325" textLength="289" lengthAdjust="spacingAndGlyphs">            .:.     .  *@@*:::-=+****=--==++++-.</text>
+<text x="20" y="335" textLength="295" lengthAdjust="spacingAndGlyphs">          .:::.  .    -%@@@-:---+****+++*#%%%%%+.</text>
+<text x="20" y="345" textLength="301" lengthAdjust="spacingAndGlyphs">          .::-:     .-*%@@@*-:--=++++++*##%%%%%%=.</text>
+<text x="20" y="355" textLength="307" lengthAdjust="spacingAndGlyphs">         .-----   .:=*#%@@@#+---==+++++*##%%%%%%#=.</text>
+<text x="20" y="365" textLength="313" lengthAdjust="spacingAndGlyphs">        .------. :==**#%@@@@*==-=++*+++**%##%%%%%#=.</text>
+<text x="20" y="375" textLength="313" lengthAdjust="spacingAndGlyphs">        -------:=*++**%%@@@@%#+=-=+#*##**%%%%%%%##*-</text>
+<text x="20" y="385" textLength="319.1" lengthAdjust="spacingAndGlyphs">       .-------::=+*##%%%%@@@@%####%@%**%@@@@@@@@%%#=</text>
+<text x="20" y="395" textLength="325.1" lengthAdjust="spacingAndGlyphs">       .---------=+#++%%%#@@@@@@@@@@##@@@@@@@@@@%%%@#-</text>
+<text x="20" y="405" textLength="331.1" lengthAdjust="spacingAndGlyphs">      .:----==--=+*###%%%%%@@@@%@@@#%@@@@%%%%%%####%#+:</text>
+<text x="20" y="415" textLength="337.1" lengthAdjust="spacingAndGlyphs">    .:----=--:.==+*#*%@%##%%@@@@%%%@@@@@%%%%%%#####%#*+:</text>
+<text x="20" y="425" textLength="343.1" lengthAdjust="spacingAndGlyphs">  .:---=--:.  .+******#%*-+%@@@@@%@@%@@@%%%%%#####*%%**=:</text>
+<text x="20" y="435" textLength="349.2" lengthAdjust="spacingAndGlyphs"> .:===-:.      +*++**++**+*%%@@@@@@%@@@%####%*****##%***=.</text>
+<text x="20" y="445" textLength="349.2" lengthAdjust="spacingAndGlyphs">.:--:.       . =*++**=+*#%%#%@@@@@@@@%%#***#%******#%#+*+=</text>
+<text x="20" y="455" textLength="349.2" lengthAdjust="spacingAndGlyphs">..             .**+**+++*##%#%@@@@@@%%%#***##*+*****##*+**</text>
 </g>
 <g font-size="16" xml:space="preserve">
 <text x="405" y="41" textLength="575" lengthAdjust="spacingAndGlyphs"><tspan class="key">linyker@mendes</tspan> ───────────────────────────────────────────</text>
@@ -63,7 +59,7 @@
 <text x="405" y="381" textLength="575" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="dim"> ..................... </tspan><tspan class="value">in/linyker-mendes-coelho</tspan></text>
 <text x="405" y="401" textLength="575" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="dim"> ........................... </tspan><tspan class="value">github.com/Linykercs</tspan></text>
 <text x="405" y="441" textLength="575" lengthAdjust="spacingAndGlyphs">- GitHub Stats ───────────────────────────────────────────</text>
-<text x="405" y="461" textLength="575" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">Repos</tspan>:<tspan class="dim"> ................ </tspan><tspan class="value">16</tspan><tspan class="dim"> | </tspan><tspan class="dim">  </tspan><tspan class="key">Stars</tspan>:<tspan class="dim"> ................ </tspan><tspan class="value">2</tspan></text>
-<text x="405" y="481" textLength="575" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">Commits</tspan>:<tspan class="dim"> ............. </tspan><tspan class="value">140</tspan><tspan class="dim"> | </tspan><tspan class="dim">  </tspan><tspan class="key">Followers</tspan>:<tspan class="dim"> ............ </tspan><tspan class="value">1</tspan></text>
+<text x="405" y="461" textLength="575" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">Repos</tspan>:<tspan class="dim"> ................ </tspan><tspan class="value">19</tspan><tspan class="dim"> | </tspan><tspan class="dim">  </tspan><tspan class="key">Stars</tspan>:<tspan class="dim"> ................ </tspan><tspan class="value">2</tspan></text>
+<text x="405" y="481" textLength="575" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">Commits</tspan>:<tspan class="dim"> ............. </tspan><tspan class="value">153</tspan><tspan class="dim"> | </tspan><tspan class="dim">  </tspan><tspan class="key">Followers</tspan>:<tspan class="dim"> ............ </tspan><tspan class="value">1</tspan></text>
 </g>
 </svg>
