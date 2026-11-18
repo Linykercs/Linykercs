@@ -49,7 +49,7 @@
 <text x="405" y="161"><tspan class="dim">.</tspan></text>
 <text x="405" y="181" textLength="575" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="dim"> ... </tspan><tspan class="value">Python, Java, TypeScript, SQL</tspan></text>
 <text x="405" y="201" textLength="575" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="dim"> ............. </tspan><tspan class="value">FastAPI, Spring Boot</tspan></text>
-<text x="405" y="221" textLength="575" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="dim"> .................... </tspan><tspan class="value">Portuguese, English</tspan></text>
+<text x="405" y="221" textLength="575" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="dim"> ........... </tspan><tspan class="value">Portuguese, English, Spanish</tspan></text>
 <text x="405" y="241"><tspan class="dim">.</tspan></text>
 <text x="405" y="261" textLength="575" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">AI</tspan>:<tspan class="dim"> ....................... </tspan><tspan class="value">RAG, Evals, LLM Agents</tspan></text>
 <text x="405" y="281" textLength="575" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Backend</tspan>:<tspan class="dim"> ....... </tspan><tspan class="value">REST APIs, Webhooks, Integrations</tspan></text>
@@ -60,6 +60,6 @@
 <text x="405" y="401" textLength="575" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="dim"> ........................... </tspan><tspan class="value">github.com/Linykercs</tspan></text>
 <text x="405" y="441" textLength="575" lengthAdjust="spacingAndGlyphs">- GitHub Stats ───────────────────────────────────────────</text>
 <text x="405" y="461" textLength="575" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">Repos</tspan>:<tspan class="dim"> ................ </tspan><tspan class="value">20</tspan><tspan class="dim"> | </tspan><tspan class="dim">  </tspan><tspan class="key">Stars</tspan>:<tspan class="dim"> ................ </tspan><tspan class="value">2</tspan></text>
-<text x="405" y="481" textLength="575" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">Commits</tspan>:<tspan class="dim"> ............. </tspan><tspan class="value">208</tspan><tspan class="dim"> | </tspan><tspan class="dim">  </tspan><tspan class="key">Followers</tspan>:<tspan class="dim"> ............ </tspan><tspan class="value">2</tspan></text>
+<text x="405" y="481" textLength="575" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">Commits</tspan>:<tspan class="dim"> ............. </tspan><tspan class="value">220</tspan><tspan class="dim"> | </tspan><tspan class="dim">  </tspan><tspan class="key">Followers</tspan>:<tspan class="dim"> ............ </tspan><tspan class="value">2</tspan></text>
 </g>
 </svg>
