@@ -13,7 +13,7 @@
     [
       ["Languages.Programming", "Python, Java, TypeScript, SQL"],
       ["Languages.Frameworks", "FastAPI, Spring Boot"],
-      ["Languages.Real", "Portuguese, English"]
+      ["Languages.Real", "Portuguese, English, Spanish"]
     ],
     [
       ["Focus.AI", "RAG, Evals, LLM Agents"],
